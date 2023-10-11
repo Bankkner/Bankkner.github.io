@@ -5,4 +5,4 @@
 
 # Nickname : แบงค์
 
-# guest : พี่เกล
+# guest : พี่เจล
